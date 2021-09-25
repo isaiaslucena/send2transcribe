@@ -1,0 +1,13 @@
+{
+	"appdir": "/home/isaiasneto/applications/send2transc",
+	"urljson":"http://localhost:8000/api/get_channels_conf",
+	"urlfiles":"video/getlist",
+	"urlaudio":"video/getmp3",
+	"urlvideo":"video/getvideo",
+	"urlchecktrans":"http://localhost:8000/api/check_trans",
+	"urlsavetrans":"http://localhost:8000/api/save_trans",
+	"tmppath": "/home/isaiasneto/applications/send2transc/temp",
+	"queuefile":"/queue.json",
+	"transcribingfile":"/transcribing.json",
+	"jsonfile":"/aconf.json"
+}
